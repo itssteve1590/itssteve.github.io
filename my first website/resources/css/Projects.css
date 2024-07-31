@@ -1,0 +1,34 @@
+.banner{
+    font-size: 200px;
+    text-align: center;
+    background-color: #4D00FF;
+    margin: 0px 10px;
+    color: white;
+    padding: 50px;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+.section-header {
+    color: #4D00FF;
+    border: 5px solid black;
+    text-align: center;
+    font-size: 55px;
+    background-color: white;
+    padding: 40px;
+    margin: 20px 350px;
+    border-radius: 20px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+    border: 5px solid #4D00FF;
+    padding: 20px;
+    margin:20px 650px;
+    border-radius: 20px;
+}
+
+h2 :hover{
+    color: #ffa631;
+}

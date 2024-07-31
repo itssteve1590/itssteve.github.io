@@ -1,0 +1,47 @@
+#Banner{
+    font-size: 350px;
+    text-align: center;
+    background-color: #4D00FF;
+    margin: 0px;
+    color: white;
+}
+
+#welcome_message {
+    font-size: 60px;
+    text-align: center;
+}
+
+.button{
+    background-color: rgb(255, 255, 255);
+    display: table-cell;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 25px;
+    font-size: 20px;
+    padding: 5px 35px;
+}
+
+.button :hover{
+    color: rgb(255, 166, 0);
+}
+
+ul{
+    display: table;
+}
+
+li a{
+    display: block;
+    text-align: center;
+}
+
+.bio{
+    position: center;
+    text-align: center;
+    font-size: 30px;
+    padding: 0px 400px;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+}
